@@ -2,6 +2,8 @@ www.xpi.com.br
 home.xpi.com.br
 www.clear.com.br
 home.clear.com.br
+corretora.clear.com.br
+pro.clear.com.br
 www.modalmais.com.br
 trading.modalmais.com.br
 www.btgpactual.com
@@ -26,3 +28,4 @@ www.xpinc.com
 home.xpinc.com
 www.avenue.us
 home.avenue.us
+www.xm.com
